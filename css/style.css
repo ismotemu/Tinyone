@@ -1,0 +1,174 @@
+/*font-family: 'PT Sans', sans-serif;*/
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+	color:#010101 !important;
+}
+/*-----------header start----------------*/
+header{
+	background-color: #fcdb00;
+	padding: 25px 0px;
+}
+
+.menu ul li a{
+	font-weight: 700;
+	font-size: 22px;
+	padding: 0px 40px !important;
+	/*color:#010101 !important;*/
+	text-align: right;
+
+
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+
+}
+.menu ul li a:hover{
+	color: white !important;
+
+}
+/*-------------header end-----------------*/
+/*-------------slider start-----------------*/
+.slider{
+	background-color:#fcdb00 !important;
+	/*height: 700px;*/
+	padding-bottom: 50px;
+}
+.slider-content{
+	margin-top: 60px !important;
+
+
+}
+.slider-content h1{
+	font-weight: 700;
+	font-size: 32px;
+}
+.slider-content p{
+	color:#555555;
+	word-spacing:1px;
+	line-height:20px;
+	margin-bottom: 35px;
+}
+.slider-content h2{
+	font-size:20px;
+	font-weight:400;
+	color:#313841;
+	letter-spacing:1px;
+	word-spacing:2px;
+	margin:20px 0;
+}
+.slider-icon{
+	font-size: 40px;
+}
+.slider-icon li{
+	margin-right: 30px !important;
+
+}
+.slider-img{
+
+	padding-right: 50px;
+}
+.cid{
+	bottom:-58px;
+
+}
+.cid li{
+	width: 15px;
+	height:15px;
+	border-radius: 50%;
+	
+}
+/*-------------sliderr end-----------------*/
+/*-------------feature start---------------*/
+.f_c_title{
+	margin-top:100px;
+	margin-bottom:70px;
+}
+.f_c_h{
+	font-size:32px;
+	font-weight: 700;
+	color:#010101;
+
+}
+.f_c_p{
+	color:#313841;
+	font-size: 20px;
+	margin-top: 35px;
+}
+.f_c{
+	margin-top: 100px;
+
+}
+.f_h{
+	font-size: 20px;
+	color: #010101;
+
+}
+
+.f_p{
+	color:#898989;
+
+}
+.f_sec_icon{
+	font-size:50px;
+}
+.f_sec_txt{}
+.f_sec_h{
+	font-size: 22px;
+}
+.f_sec_p{
+	color:#898989 !important;
+}
+/*-------------feature end---------*/
+/*-------------submit start---------*/
+.black{
+	background-color: #010101;
+	padding-bottom: 70px;
+
+}
+.yellow{
+	color: #fcdb00;
+
+}
+.gray{
+	color: #898989;
+	
+}
+.submit{
+	background-color: #fcdb00;
+	color: black;
+	border-color: #fcdb00;
+
+}
+.submit:hover{
+	background-color: gray;
+	border-color: #fcdb00;
+
+
+}
+/*-------------submit end---------*/	
+/*footer*/
+footer{
+	background-color: black;
+}
+.f_1{
+	color: #ffffff;
+	font-weight: 700px;
+	font-size: 16px;
+}
+.f_1 a{
+	color: #ffffff;
+
+
+}
+.f_1 a:hover{
+	color: white;
+}
+.f_1 p{
+	margin:0;
+}
+/*footer*/
+
